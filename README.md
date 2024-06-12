@@ -41,4 +41,5 @@ This dashboard offers valuable insights into the history of the tournament, cove
 - **Power BI Dashboard File:**
 - **Screenshots of Dashboard**
 - **Video explaining the Dashboard**
+- **Presentation on the Analysis**
 
